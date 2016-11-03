@@ -1,7 +1,6 @@
 # MLMp
-an unsupervised nonlinear unmixing algorithm based on multi-linear mixture (MLM) model
 
-Demo: Unsupervised Nonlinear unmixing based on multilinear mixing (MLM) model
+Demo: an unsupervised nonlinear unmixing algorithm based on multi-linear mixture (MLM) model
 
 Author: Qi WEI
 
